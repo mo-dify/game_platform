@@ -54,6 +54,7 @@ int main(int argc,char* argv[])
 	//2,连接
 	sin.sin_family = AF_INET;
 	sin.sin_port = htons(8080);
+	//本地回环测试
 	inet_pton(AF_INET,"127.0.0.1",&sin.sin_addr.s_addr);
 //	inet_pton(AF_INET,"192.168.43.121",&sin.sin_addr.s_addr);
 //	inet_pton(AF_INET,"192.168.43.185",&sin.sin_addr.s_addr);
