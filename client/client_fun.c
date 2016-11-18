@@ -2,10 +2,9 @@
  *       Filename:  client_fun.c
  *    Description:  
  *        Version:  1.0
- *        Created:  2016年09月18日 15时25分34秒
  *       Revision:  none
  *       Compiler:  gcc
- *         Author:  YOUR NAME (), 
+ *         Author:  mo 
  *        Company:  
  * ************************************************************************/
 
