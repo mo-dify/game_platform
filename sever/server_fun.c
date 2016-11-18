@@ -2,7 +2,6 @@
  *       Filename:  server_fun.c
  *    Description:  
  *        Version:  1.0
- *        Created:  2016年09月17日 11时09分01秒
  *       Revision:  none
  *       Compiler:  gcc
  *         Author:  YOUR NAME (), 
